@@ -113,5 +113,6 @@ circuit.draw()
 
 执行完会发现在模拟器中理想情况下的贝尔态电路真正执行起来还是会出现小概率的01和10 为啥呢，可能是科技不够先进，量子比特很容易受到外界环境影响的呢
 
-![image-20230428184856986](https://raw.githubusercontent.com/lijianye521/images/master/image-20230428184856986.png)
 
+
+![ch5jpfqccl2b15q3naeg_histogram (1)](https://raw.githubusercontent.com/lijianye521/images/master/ch5jpfqccl2b15q3naeg_histogram%20(1).png)
